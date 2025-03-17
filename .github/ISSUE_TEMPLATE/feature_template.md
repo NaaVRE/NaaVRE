@@ -6,19 +6,25 @@ assignees: ''
 
 ---
 
-#### User story
-**Describe what you would like to be able to do**
-As a [role],  
-I want [a feature],  
-So that [a reason or benefit].
+### User story
+*Describe what you would like to be able to do:*  
+  
+As a *[role]*,  
+I want *[a feature]*,  
+So that *[a reason or benefit]*.
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is.
+*Is your feature request related to a problem? Please describe.*
 
-#### Features
+### Features
+*Describe the solution you'd like. Give a clear and concise description of what you want to happen.*
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+#### Requirements
+*List the requirements for the solution.*
+- *Requirement1*
+- *Requirement2*
+- *...*
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+#### Alternatives
+*Describe alternatives you've considered:*  
+- *My current approach to  doing this is ...*
+- *I tried to get this done by ...*
