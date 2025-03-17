@@ -3,6 +3,7 @@ name: Feature
 about: Feature template
 type: Feature
 assignees: ''
+labels: ["user story"] 
 
 ---
 
