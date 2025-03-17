@@ -13,7 +13,8 @@ As a *[role]*,
 I want *[a feature]*,  
 So that *[a reason or benefit]*.
 
-*Is your feature request related to a problem? Please describe.*
+#### Current limitations
+*Is your feature request related to a problem or something that is currently not possible? Please describe.*
 
 ### Features
 *Describe the solution you'd like. Give a clear and concise description of what you want to happen.*
