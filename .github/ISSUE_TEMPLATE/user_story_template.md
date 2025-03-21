@@ -1,6 +1,6 @@
 ---
-name: Feature
-about: Feature template
+name: User story
+about: User story template
 type: Feature
 assignees: ''
 labels: ["user story"] 
@@ -17,7 +17,12 @@ So that *[a reason or benefit]*.
 #### Current limitations
 *Is your feature request related to a problem or something that is currently not possible? Please describe.*
 
-### Features
+#### Alternatives
+*Describe alternatives you've considered:*  
+- *My current approach to  doing this is ...*
+- *I tried to get this done by ...*
+
+### Features (Optional)
 *Describe the solution you'd like. Give a clear and concise description of what you want to happen.*
 
 #### Requirements
@@ -26,7 +31,4 @@ So that *[a reason or benefit]*.
 - *Requirement2*
 - *...*
 
-#### Alternatives
-*Describe alternatives you've considered:*  
-- *My current approach to  doing this is ...*
-- *I tried to get this done by ...*
+
