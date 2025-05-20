@@ -22,7 +22,7 @@ So that *[a reason or benefit]*.
 - *My current approach to  doing this is ...*
 - *I tried to get this done by ...*
 
-### Features (Filling in this part is optional)
+### Features (filling in this part is optional)
 *Describe the solution you'd like. Give a clear and concise description of what you want to happen.*
 
 #### Requirements
