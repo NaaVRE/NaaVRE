@@ -8,6 +8,8 @@ assignees: ''
 
 *Describe the bug: Give a clear and concise description of what the bug is.*
 
+How frequently and consistently does the bug occur?
+
 #### To Reproduce
 Steps to reproduce:
 
@@ -19,8 +21,8 @@ Steps to reproduce:
 #### Expected behavior
 *A clear and concise description of what you expected to happen.*
 
-#### Screenshots
-*If applicable, add screenshots to help explain your problem.*
+#### Screenshots / Occurences
+*If applicable, add screenshots and links to code or files that you used when the problem occured to help explain your problem.*
 
 #### System
 - Url [e.g. https://staging.demo.naavre.net/vl-openlab]
@@ -28,4 +30,4 @@ Steps to reproduce:
   - Version [e.g. 22]
 
 #### Additional context
-*Add any other context about the problem here.*
+*Add any other context about the problem here. Do you have a workaround?*
