@@ -6,9 +6,7 @@ assignees: ''
 
 ---
 
-*Describe the bug: Give a clear and concise description of what the bug is.*
-
-How frequently and consistently does the bug occur?
+_Describe the bug: Give a clear and concise description of what the bug is._
 
 #### To Reproduce
 Steps to reproduce:
@@ -18,11 +16,14 @@ Steps to reproduce:
 - Scroll down to '....'
 - See error
 
+#### Frequency
+_How frequently and consistently does the bug occur? Any time you take the actions described above? Or sometimes?_
+
 #### Expected behavior
-*A clear and concise description of what you expected to happen.*
+_A clear and concise description of what you expected to happen._
 
 #### Screenshots / Occurences
-*If applicable, add screenshots and links to code or files that you used when the problem occured to help explain your problem.*
+_If applicable, add screenshots and links to code or files that you used when the problem occured to help explain your problem._
 
 #### System
 - Url [e.g. https://staging.demo.naavre.net/vl-openlab]
@@ -30,4 +31,4 @@ Steps to reproduce:
   - Version [e.g. 22]
 
 #### Additional context
-*Add any other context about the problem here. Do you have a workaround?*
+_Add any other context about the problem here. Do you have a workaround?_
