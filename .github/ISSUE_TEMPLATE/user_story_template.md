@@ -21,14 +21,3 @@ So that *[a reason or benefit]*.
 *Describe alternatives you've considered:*  
 - *My current approach to  doing this is ...*
 - *I tried to get this done by ...*
-
-### Features (filling in this part is optional)
-*Describe the solution you'd like. Give a clear and concise description of what you want to happen.*
-
-#### Requirements
-*List the requirements for the solution.*
-- *Requirement1*
-- *Requirement2*
-- *...*
-
-
